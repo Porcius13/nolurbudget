@@ -1,0 +1,20 @@
+{
+    "name": "BudgetFriend Premium",
+    "short_name": "BudgetFriend",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#050505",
+    "theme_color": "#6366f1",
+    "icons": [
+        {
+            "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=Favis",
+            "sizes": "192x192",
+            "type": "image/svg+xml"
+        },
+        {
+            "src": "https://api.dicebear.com/7.x/avataaars/svg?seed=Favis",
+            "sizes": "512x512",
+            "type": "image/svg+xml"
+        }
+    ]
+}

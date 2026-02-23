@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">BudgetFriend</string>
+    <string name="title_activity_main">BudgetFriend</string>
+    <string name="package_name">com.budgetfriend.app</string>
+    <string name="custom_url_scheme">com.budgetfriend.app</string>
+</resources>
